@@ -26,6 +26,20 @@ class PopupImageWidget extends Widget
     public $description;
 
     /**
+     * @var string
+     */
+    public $style = "";
+
+    /**
+     * @var string
+     */
+    public $group = "default_group";
+
+    public $height = "125px";
+
+    public $width = "150px";
+
+    /**
      * @inheritdoc
      */
     public function init()
