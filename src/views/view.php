@@ -4,6 +4,6 @@ $widget = $this->context;
 
 ?>
 
-<a data-lightbox="image-1" href="<?= $widget->source ?>">
-    <img src="<?= $widget->thumbnail ?>" height="115px" width="150px" alt="<?= $widget->description ?>" />
+<a data-lightbox="<?= $widget->group ?>" href="<?= $widget->source ?>" style="<?= $widget->style ?>">
+    <img src="<?= $widget->thumbnail ?>" height="<?= $widget->height ?>" width="<?= $widget->width ?>" alt="<?= $widget->description ?>" />
 </a>
