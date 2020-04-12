@@ -1,5 +1,5 @@
 {
-    "name": "b4djo/yii2-popup-image",
+    "name": "elisevgeniy/yii2-lifhtbox2-lokeshdhakar",
     "description": "Package",
     "type": "yii2-extension",
     "license": "MIT",
@@ -8,6 +8,13 @@
             "name": "Robert",
             "email": "fatkhullin.robert@gmail.com",
             "homepage": "https://robertobadjio.ru",
+            "role": "Developer"
+        },
+
+        {
+            "name": "elisevgeniy",
+            "email": "elisevgeniy]@gmail.com",
+            "homepage": "https://kusok-piro.ga/",
             "role": "Developer"
         }
     ],
